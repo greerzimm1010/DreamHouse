@@ -5,6 +5,8 @@ Below are directions on how to get yourself setup with your very own repository 
 By creating your own copy of the Dream House remote repository, you can work through the exercise of cloning a remote repo to your computer, modifying files on your computer, and 
 The first part of these directions are for setting up Git, which is required, and VSCode. I recommend starting with VSCode as it can be your text editor, command line, and GUI all in one
 
+Don't hesitate to connect with me on LinkedIn at linkedin.com/in/greer-zimmerman
+
 Set up your tools:
 1. Follow directions for downloading Git onto your computer: https://git-scm.com/download
 2. Follow directions for installing VS Code: https://trailhead.salesforce.com/content/learn/projects/quickstart-vscode-salesforce/start-vscode NOTE: setting up vscode to work with Salesforce isn't required for using git (parts 2 and 3 of the trailhead), I recommend setting it up and learning that as well!
